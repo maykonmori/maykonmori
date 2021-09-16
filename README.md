@@ -1,11 +1,11 @@
 ## Hi there, I'm Maykon Mori 👋
 <div style="display: inline_block">
   <div>
-    <a>- 🌱 I’m currently studing at 42SP</a><br>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykonmori&layout=compact&langs_count=7&theme=dracula"/>
+    <a>- 🌱 I’m currently studing at 42SP</a><br><br>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykonmori&layout=compact&langs_count=7&theme=dracula"/>
   </div>
   <div>
-   <img align="right" src="https://i.pinimg.com/originals/42/0e/39/420e39bd34d74ffae5c6af92a701d5cb.gif">
+   <img height="250" align="right" src="https://tenor.com/view/mad-typing-cat-keyboard-smash-gif-6108221.gif">
   </div>
 </div>
 <!--
