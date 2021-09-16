@@ -5,7 +5,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykonmori&layout=compact&langs_count=7&theme=dracula"/>
   </div>
   <div>
-   <img align="right" alt="Rafa-yoda" src="https://i.pinimg.com/originals/42/0e/39/420e39bd34d74ffae5c6af92a701d5cb.gif">
+   <img align="right" src="https://i.pinimg.com/originals/42/0e/39/420e39bd34d74ffae5c6af92a701d5cb.gif">
   </div>
 </div>
 <!--
