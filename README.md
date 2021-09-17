@@ -36,7 +36,7 @@
       </p>
       </div>
   </div>
-  <div>
+  <div style="display: inline_block">
    <img height="250" align="right" src="https://tenor.com/view/mad-typing-cat-keyboard-smash-gif-6108221.gif">
   </div>
 </div>
